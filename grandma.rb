@@ -1,7 +1,7 @@
 input_phrase = "Hi Nana, how are you?"
 def speak_to_grandma(phrase)  
   # Check if it is false that string is all upper case
-  phrase == phrase.upcase== false
+  phrase == phrase.upcase= = false
 
     # return this string if condition is false                
      puts "HUH?! SPEAK UP, SONNY!"        
